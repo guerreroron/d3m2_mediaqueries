@@ -135,7 +135,7 @@ main {
 }
 
 .card img {
-  max-width: 14em;
+  max-width: 11.1em;
 }
 
 .card img:hover {
@@ -195,6 +195,7 @@ span {
 
 .square:hover {
   background-color: #fff;
+  transition: 0.5s ease;
 }
 
 
